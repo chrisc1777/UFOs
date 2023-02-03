@@ -6,7 +6,7 @@ Dana is requesting to build a website for her article regarding ufo sightings us
 ## Results
 The landing page of Dana's article along with a dynamic table of ufo sightings data 
 
-![ufo1](https://user-images.githubusercontent.com/106359564/216487155-07425fe7-1e6f-4501-ad0c-4e848fddbf8e.png)
+![ufo1](https://user-images.githubusercontent.com/106359564/216487501-66e7bbe3-b4aa-471a-830d-9363b6bddbf7.png)
 ![ufo2](https://user-images.githubusercontent.com/106359564/216487204-c0de8ecf-cdd5-43ec-87c8-9da9edcffe92.png)
 
 
